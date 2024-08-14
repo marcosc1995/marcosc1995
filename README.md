@@ -1,10 +1,43 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A passionate frontend developer from Uruguay</h3>
+# Marcos Caitano
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcos-caitano-lemos-6519191b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-caitano-lemos-6519191b9" height="30" width="40" /></a>
-</p>
+**Full Stack Developer | Electronics Enthusiast | Tech Advocate**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+Hello! I'm Marcos, a passionate developer with a deep love for technology and electronics. With a solid background in web development and a fascination with technological innovation, I am dedicated to creating effective and elegant solutions that drive projects to success.
+
+## About Me
+
+From a young age, I've been drawn to the world of technology and science. This passion has led me to a career in software development and electronics, where I combine my technical knowledge with a passion for problem-solving and creating exceptional experiences.
+
+As a developer, I specialize in a range of key technologies, including:
+
+- **HTML**: Designing and structuring web content with the latest HTML specifications.
+- **CSS & SCSS**: Crafting attractive and responsive user interfaces using CSS and SCSS.
+- **JavaScript**: Developing interactive and dynamic applications with JavaScript and modern frameworks.
+- **C#**: Experience in desktop and backend application development with C#.
+- **Node.js**: Building efficient servers and scalable APIs with Node.js.
+
+## Skills
+
+- **Frontend Development**: HTML, CSS, SCSS, JavaScript, React
+- **Backend Development**: Node.js, Express.js, C#
+- **Databases**: PostgreSQL, SQLite
+- **Version Control**: Git, GitHub
+- **Electronics and Robotics**: Designing and programming electronic systems
+
+## Notable Projects
+
+- **Game Tracker**: An application to manage and track games, using React, Node.js, and the RAWG Games API. [View Project](#)
+
+
+## Contact
+
+
+- **GitHub**: https://github.com/marcosc1995
+- **LinkedIn**: www.linkedin.com/in/marcos-cdev
+- **Website**: marcoscaitano.com
+
+## Philosophy
+
+I believe technology is a powerful tool for enhancing our lives and solving complex problems. My approach is always to learn and adapt to new technologies, staying up-to-date with industry trends and best practices.
+
+Thank you for visiting my profile! If you have any questions or would like to collaborate on a project, feel free to reach out.
