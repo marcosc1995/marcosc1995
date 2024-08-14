@@ -34,7 +34,7 @@ As a developer, I specialize in a range of key technologies, including:
 
 - **GitHub**: https://github.com/marcosc1995
 - **LinkedIn**: www.linkedin.com/in/marcos-cdev
-- **Website**: marcoscaitano.com
+- **Website**: www.marcoscaitano.com
 
 ## Philosophy
 
